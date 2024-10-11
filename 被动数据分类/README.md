@@ -5,7 +5,7 @@
 
 SCI-Applied soft computing期刊的加密流量分类，使用了VPN/NonVPN、ISCX-VPN、ISCX-Tor三个数据集，可以对加密应用数据进行分类。
 
-![image](被动数据分类/pic/pic1.png)
+![image](pic/pic1.png)
 
 https://www.sciencedirect.com/science/article/pii/S1568494624001972
 
